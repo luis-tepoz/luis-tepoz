@@ -1,16 +1,76 @@
-## Hi there 👋
-## My name is Luis Tepoz Vazquez!
-## Currently I work at the Information Lab US as Data Analyst and Engineering Consultant
+# Hi there, I'm Luis Tepoz Vazquez👋
 
-# I am excited to work here!!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+and+Engineering+Consultant;" alt="Typing SVG" />
+</div>
 
-# Certification Section:
-Hunter College 
-CompTIA Security+ Certificate 
+### 📫 Let's Connect!
 
-# Project Section:
--Friday project
-- Tableau Dashboards
+<div align="left">
+  <a href="www.linkedin.com/in/luistepozvazquez" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:luis.vazquez@theinformationlab.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</div>
+
+## 🛠️ About Me
+
+I am a Data Analyst and Engineering Consultant at [The Information Lab US](https://www.theinformationlab.com/), combining modern data architecture expertise with client-facing analytics, business strategy, and training. With a background in Computer Science and experience in education, I am excited to deepen my knowledge of data engineering—specifically building scalable ETL/ELT pipelines.
+
+- 🧠 **Currently Learning:** Cleaning data with **Tableau Prep** & Data Visualization with **Tableau**
+- 🎯 **Goals for 2026:** Build end-to-end ETL pipelines on [Snowflake / Data Bricks] & become proficient in SQL and Python
+
+
+---
+
+<!--### 🧰 Data Engineering Toolbox
+
+#### **Languages & Querying**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+#### **Databases & Warehouses**
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+
+#### **Data Engineering Frameworks & Orchestration**
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+#### **Tools & Infrastructure**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 🏗️ Featured Data Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🚢 **[E-Commerce ETL Pipeline](https://github.com/YOUR_GITHUB_USERNAME/repo-name)** | Automated pipeline that extracts daily order data, transforms schema, and loads into PostgreSQL. | Python, Airflow, Postgres, Docker |
+| 📊 **[Real-Time Analytics Dashboard](https://github.com/YOUR_GITHUB_USERNAME/repo-name)** | Streams API events into a lightweight warehouse for real-time querying. | DuckDB, Streamlit, Python |
+| 🧹 **[Data Quality & Modeling Suite](https://github.com/YOUR_GITHUB_USERNAME/repo-name)** | Star schema modeling with automated unit testing for data integrity. | SQL, dbt, PostgreSQL |
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+</div>
+
+---
+
+-->
 
 <!--
 **luis-tepoz/luis-tepoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
