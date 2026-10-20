@@ -8,6 +8,9 @@
 Hunter College 
 CompTIA Security+ Certificate 
 
+# Project Section:
+-Friday project
+- Tableau Dashboards
 
 <!--
 **luis-tepoz/luis-tepoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
