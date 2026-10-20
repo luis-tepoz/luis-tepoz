@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My name is Luis Tepoz Vazquez!
+## Currently I work at the Information Lab US as Data Analyst and Engineering Consultant
 
 <!--
 **luis-tepoz/luis-tepoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
