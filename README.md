@@ -1,10 +1,13 @@
 ## Hi there 👋
 ## My name is Luis Tepoz Vazquez!
 ## Currently I work at the Information Lab US as Data Analyst and Engineering Consultant
-<<<<<<< HEAD
-## I am excited to work here!!
-=======
->>>>>>> 66be48ca733fa749b46efa3469783e4be29ddf80
+
+# I am excited to work here!!
+
+# Certification Section:
+Hunter College 
+CompTIA Security+ Certificate 
+
 
 <!--
 **luis-tepoz/luis-tepoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
