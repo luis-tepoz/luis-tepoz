@@ -37,6 +37,39 @@ I am a Data Analyst and Engineering Consultant at [The Information Lab US](https
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
+---
+### Certifications:
+- Work in Progress
+
+---
+
+### Projects
+
+| Name                  | Description                                                                 | Tools                                   | Skills                          |
+|-----------------------|-----------------------------------------------------------------------------|-----------------------------------------|---------------------------------|
+| [Blank1](www.google.com)      | Work in Progress | Work in Progress | Work in Progress |
+| [Blank2](www.google.com)          | Work in Progress |Work in Progress   | Work in Progress |
+| [Blank3](www.google.com) | Work in Progress | Work in Progress | Work in Progress |
+| [Blank4](www.google.com)           | Work in Progress | Work in Progress |Work in Progress |
+
+---
+### Vizzes (Updating Soon!)
+
+<!--<div align="center">
+<a href="https://public.tableau.com/views/HastheWorldCupBecomeMoreCompetitivelyUnpredictable/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+<img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png" width="40%"> 
+
+<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard">
+<img src="https://public.tableau.com/static/images/Ma/MakeOverMonday2023Week35/Dashboard/4_3.png" width="40%">
+
+<br>
+
+<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MoM2024Wk52/Dashboard">
+<img src="https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png" width="40%">
+
+<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/WOW2022Week22MLBHallofFamersRanks/Dashboard1">
+<img src="https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png" width="40%">
+<div> -->
 <!--### 🧰 Data Engineering Toolbox
 
 #### **Languages & Querying**
