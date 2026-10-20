@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&background=1E293B&border_radius=6&center=true&vCenter=true&width=600&height=70&lines=Data+Analyst+and+Engineering+Consultant" alt="Typing SVG Banner" />
 </div>
 
-### 📫 Let's Connect!
-
+###  Let's Connect!
+<img align="right" src="https://tenor.com/e99USOmXREz.gif" width="150" alt="Connect GIF" />
 <div align="left">
   <a href="https://www.linkedin.com/in/luistepozvazquez" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -13,17 +13,29 @@
 <a href="mailto:luis.vazquez@theinformationlab.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-</div>
+<a href="https://public.tableau.com/app/profile/luis.tepoz.vazquez/vizzes">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+</a>
+</div> 
 
-## 🛠️ About Me
+##  About Me
 
-I am a Data Analyst and Engineering Consultant at [The Information Lab US](https://www.theinformationlab.com/), combining modern data architecture expertise with client-facing analytics, business strategy, and training. With a background in Computer Science and experience in education, I am excited to deepen my knowledge of data engineering—specifically building scalable ETL/ELT pipelines.
+I am a Data Analyst and Engineering Consultant at [The Information Lab US](https://www.theinformationlab.com/), combining modern data architecture expertise with client-facing analytics, business strategy, and training. With a background in Computer Science and experience in education, I am excited to deepen my knowledge of data engineering, specifically building scalable ETL/ELT pipelines.
 
 - 🧠 **Currently Learning:** Cleaning data with **Tableau Prep** & Data Visualization with **Tableau**
-- 🎯 **Goals for 2026:** Build end-to-end ETL pipelines on [Snowflake / Data Bricks] & become proficient in SQL and Python
+- 🎯 **Goals for 2026:** Build end-to-end ETL pipelines on [Snowflake / Databricks] & become proficient in SQL and Python
 
 
 ---
+
+### Languages/Technologies I use: 
+
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 <!--### 🧰 Data Engineering Toolbox
 
