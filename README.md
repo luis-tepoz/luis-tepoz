@@ -1,13 +1,13 @@
 # Hi there, I'm Luis Tepoz Vazquez👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analyst+and+Engineering+Consultant;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0EA5E9&background=1E293B&border_radius=6&center=true&vCenter=true&width=600&height=70&lines=Data+Analyst+and+Engineering+Consultant" alt="Typing SVG Banner" />
 </div>
 
 ### 📫 Let's Connect!
 
 <div align="left">
-  <a href="www.linkedin.com/in/luistepozvazquez" target="_blank">
+  <a href="https://www.linkedin.com/in/luistepozvazquez" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:luis.vazquez@theinformationlab.com">
