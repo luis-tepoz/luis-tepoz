@@ -55,19 +55,19 @@ I am a Data Analyst and Engineering Consultant at [The Information Lab US](https
 ---
 ### Vizzes (Updating Soon!)
 
-<!--<div align="center">
+<div align="center">
 <a href="https://public.tableau.com/views/HastheWorldCupBecomeMoreCompetitivelyUnpredictable/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-<img src="https://public.tableau.com/static/images/Ke/KevinandKenDoingCoolStuffinTableau/KevinandKenDoingCoolStuffinTableau/4_3.png" width="40%"> 
+<img src="https://public.tableau.com/static/images/Ha/HastheWorldCupBecomeMoreCompetitivelyUnpredictable/Dashboard1/4_3.png" width="40%"> 
 
-<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MakeOverMonday2023Week35/Dashboard">
-<img src="https://public.tableau.com/static/images/Ma/MakeOverMonday2023Week35/Dashboard/4_3.png" width="40%">
+<a href="https://public.tableau.com/views/Restaurant_Violations_Data_School_V2/FinalDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+<img src="https://public.tableau.com/static/images/Re/Restaurant_Violations_Data_School_V2/FinalDashboard/4_3.png" width="40%">
 
 <br>
 
-<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/MoM2024Wk52/Dashboard">
-<img src="https://public.tableau.com/static/images/Mo/MoM2024Wk52/Dashboard/4_3.png" width="40%">
+<a href="https://public.tableau.com/views/WhoismostatRiskforDepressionV3/Version3Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+<img src="https://public.tableau.com/static/images/Wh/WhoismostatRiskforDepressionV3/Version3Dashboard/4_3.png" width="40%">
 
-<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/WOW2022Week22MLBHallofFamersRanks/Dashboard1">
+<!--<a href="https://public.tableau.com/app/profile/roshaan.khan/viz/WOW2022Week22MLBHallofFamersRanks/Dashboard1">
 <img src="https://public.tableau.com/static/images/WO/WOW2022Week22MLBHallofFamersRanks/Dashboard1/4_3.png" width="40%">
 <div> -->
 <!--### 🧰 Data Engineering Toolbox
